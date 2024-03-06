@@ -2,7 +2,9 @@
 
 # Recoiler
 
-[Work in progress] Shooting video game based on Physics. Made in Unity, C#.
+[Work in progress] Shooting video game based on Physics. Made in Unity, C#, for the This is: Argentina JAM (1 Week long).
+
+You can download and play the game on my [itch.io](https://facundo-bravo.itch.io/recoilerjam).
 
 # Technologies
 
