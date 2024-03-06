@@ -23,7 +23,7 @@ Physics-based character control was created, and the player was given the abilit
 If a weapon is fired, the recoil of the weapon will generate a force in the opposite direction that will move the player.
 Allowing various levels of platforming that will require the use of weapons with different fire rates and recoils.
 
-*You can see the code [here](Assets/_Scripts/).*
+*You can see the code [here](Assets/Scripts/).*
 
 ## Image gallery
 
