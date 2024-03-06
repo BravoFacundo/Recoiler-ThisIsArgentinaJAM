@@ -4,6 +4,8 @@
 
 [En progreso] Videojuego de disparos basado en Físicas. Hecho en Unity, C#, para la This is: Argentina JAM (1 Semana de duración).
 
+Puedes descargar y jugar el juego en mi [itch.io](https://facundo-bravo.itch.io/recoilerjam).
+
 # Tecnologías
 
 Desarrollado utilizando:
